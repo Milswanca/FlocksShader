@@ -4,8 +4,8 @@ For some reason, after publishing the "Flocks" plugin, the shader files are comp
 In the mean time you can add the shaders yourself.
 
 # Instructions
-Download the flocks "ComputeFishShader.usf" file.
-Navigate to your downloaded plugin directory. (Should be something like C:\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\Flocks<randomGUIDidentifier>\).
-Paste the file in "\Shaders\Private\". Create this directory if it doesnt exist.
+1. Download the flocks "ComputeFishShader.usf" file.
+2. Navigate to your downloaded plugin directory. (Should be something like C:\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\Flocks<randomGUIDidentifier>\).
+3. Paste the file in "\Shaders\Private\". Create this directory if it doesnt exist.
 
 TLDR: Paste this file in C:\Program Files\Epic Games\UE_5.7\Engine\Plugins\Marketplace\Flocks<randomGUIDidentifier>\Shaders\Private.
